@@ -143,9 +143,9 @@ st.markdown(
 # ── Load Artefacts ────────────────────────────────────────────────────────────
 @st.cache_resource(show_spinner=False)
 def load_artefacts():
-    with open("placement_model.pkl", "rb") as f:
+    with open("student_p/placement_model.pkl", "rb") as f:
         model = pickle.load(f)
-    with open("scaler.pkl", "rb") as f:
+    with open("student_p/scaler.pkl", "rb") as f:
         scaler = pickle.load(f)
     return model, scaler
 
