@@ -1,6 +1,6 @@
 # 🎓 Student Placement Prediction 
 
-## Live Demo:
+## Live Demo: https://student-placement-predictiongit-mhvbeqdfjosbvjfodjbgte.streamlit.app
 
 ## GitHub Repository:
 
