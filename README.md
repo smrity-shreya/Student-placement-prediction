@@ -2,7 +2,7 @@
 A machine learning web app that predicts student placement chances
 ## Live Demo: https://student-placement-predictiongit-mhvbeqdfjosbvjfodjbgte.streamlit.app
 
-## GitHub Repository:
+## GitHub Repository: https://github.com/smrity-shreya/Student-placement-prediction.git
 
 ---
 
